@@ -100,6 +100,15 @@ Check out our [documentation](https://docs.excalidraw.com/docs/@excalidraw/excal
 - Want to contribute? Check out our [contribution guide](https://docs.excalidraw.com/docs/introduction/contributing) or let us know on [Discord](https://discord.gg/UexuTaE).
 - Want to help with translations? See the [translation guide](https://docs.excalidraw.com/docs/introduction/contributing#translating).
 
+## Double-headed arrow tool
+
+This fork adds a “double-headed arrow” option to the Arrow tool.
+
+- Select the Arrow tool, then choose the double-headed option in the tool options bar.
+- Draw as usual; arrowheads will appear at both ends.
+- The option is persisted in saved `.excalidraw` files and restored on load.
+
+
 ## Integrations
 
 - [VScode extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor)
