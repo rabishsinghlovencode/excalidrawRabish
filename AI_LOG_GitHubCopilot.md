@@ -2,7 +2,7 @@
 
 ## Prompts Used for Codebase Understanding
 
-1. 1. **Prompt:** “Explain how arrow elements are defined and rendered in the Excalidraw repo. Point me to the main TypeScript types and render functions.”  
+1. **Prompt:** “Explain how arrow elements are defined and rendered in the Excalidraw repo. Point me to the main TypeScript types and render functions.”  
    **Usefulness:** Helped identify the arrow element type, where arrowhead options live, and the main rendering path.
 
 2. **Prompt:** “Show me the React components/files responsible for the toolbar arrow/line tools and how tool options are configured.”  
